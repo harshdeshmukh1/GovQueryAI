@@ -1,11 +1,11 @@
 # GovQueryAI
 RAG Backend
 
-Overview
+# Overview
 
 A Retrieval-Augmented Generation (RAG) backend that efficiently retrieves and generates responses using FAISS and AWS Bedrock (Mistral LLM).
 
-Features
+# Features
 
 Hybrid Search: Combines dense & sparse retrieval.
 
@@ -19,7 +19,7 @@ Secure & Scalable: Authentication & fast indexing.
 
 API Ready: Easy integration with RESTful endpoints.
 
-Tech Stack
+# Tech Stack
 
 Python + FastAPI
 
